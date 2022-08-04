@@ -5,7 +5,7 @@
 I'm interested in anything related to art 🎨 and science 🧬
 
 
-I'm a very curious and creative person, currently training as a **frontend developer** wich is a whole new world for me since I'm a biology student 📚 but also I'm used to research and I love to create and design, so this field allows me both 🎭
+I'm a very curious and creative person, currently training as a **frontend developer** which is a whole new world for me since I'm a biology student 📚 but also I'm used to research and I love to create and design, so this field allows me both 🎭
 
 <img width="450" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif"><img/>
 
