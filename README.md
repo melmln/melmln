@@ -21,3 +21,5 @@ I'm a very curious and creative person, currently training as a **frontend devel
 > How to reach me:
 
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melany-molina-verd%C3%BAn-126259240/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanymolinaverdun@gmail.com)
+
