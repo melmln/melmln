@@ -1,11 +1,15 @@
 ### Hi, I'm Melany ✌🏼
 
+**< About me />**
+
 I have one year of experience as a **Front-End Developer** building responsive websites, and I currently work as a freelancer. In addition, I'm learning **UX/UI Design** to enhance my development skills and improve the user experience in terms of design and usability. As a person who is both creative and logical, I am drawn to this career path because it allows me to utilize both aspects of my personality, which I thoroughly enjoy 🤓.
+
+
 
 <img width="450" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif"><img/>
 
 
-< My skills /> 
+**< My skills />**
 
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -19,7 +23,7 @@ I have one year of experience as a **Front-End Developer** building responsive w
 
 
 
-< How to reach me />
+**< How to reach me />**
 
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melany-molina-verd%C3%BAn-126259240/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanymolinaverdun@gmail.com)
